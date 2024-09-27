@@ -1,6 +1,6 @@
 # RESH.py
 
-Reverse Shell Generator
+Reverse Shell
 
 # Credits
 https://github.com/xct  
